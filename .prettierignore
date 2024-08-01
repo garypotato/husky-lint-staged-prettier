@@ -1,0 +1,17 @@
+# Ignore artifacts:
+build
+coverage
+.husky
+node_modules
+public
+.eslintrc.json
+.gitignore
+jsconfig.json
+next.config.mjs
+package.json
+package-lock.json
+postcss.config.js
+README.md
+tailwind.config.js
+.prettierrc
+.lintstagedrc
